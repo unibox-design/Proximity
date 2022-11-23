@@ -1,7 +1,4 @@
-# Blender v3.2.2 OBJ File: ''
-# www.blender.org
-mtllib hand.mtl
-o Plane005_Mesh
+# WaveFront *.obj file
 v 0.285637 -0.133250 -0.109555
 v 0.089328 -0.137738 -0.019770
 v 0.091603 -0.125277 -0.118839
